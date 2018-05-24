@@ -1,0 +1,101 @@
+[{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NzI1fQ==",
+		"name": "urbanest North Terrace",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTg5fQ==",
+		"name": "urbanest Cleveland Street",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTk0fQ==",
+		"name": "urbanest Quay Street",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6MTA4Nn0==",
+		"name": "urbanest Glebe",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTkwfQ==",
+		"name": "urbanest Darlington",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTg4fQ==",
+		"name": "urbanest Carlton",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTk1fQ==",
+		"name": "urbanest South Bank",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpZCI6NTk3fQ==",
+		"name": "urbanest Sydney Central",
+		"currency": "GBP"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVskk3iuf2aZCI6NzI1fQ==",
+		"name": "E 10th & 1st Ave",
+		"currency": "USD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcppqolKKJNKpZCI6NzI1fQ==",
+		"name": "Elizabeth & Spring",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoioo1j28dkJSO88uIJHNKwNzI1fQ==",
+		"name": "Ludlow & Hester",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcde3JJLqKIPpZCI6NzI1fQ==",
+		"name": "Scape Abercrombie",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiL00oJJIONzI1fQ==",
+		"name": "Iglu Chatswood",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydKOOEg22ZCI6NzI1fQ==",
+		"name": "Western Sydney University Village - Hawkesbury",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHksk3ls1ssiLCJpZCI6NzI1fQ==",
+		"name": "Western Sydney University Village - Bankstown",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvc00o19kiLCJpZCI6NzI1fQ==",
+		"name": "Western Sydney University Village - Bankstown",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHkiLCJpmmaYUoI1fQ==",
+		"name": "Sydney City",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGV0IIjqjndfZCI6NzI1fQ==",
+		"name": "Jack’s Place",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcG551HkiLCJpZCI6NzI1fQ==",
+		"name": "Forest Lodge",
+		"currency": "AUD"
+	},
+	{
+		"id": "eyJ0eXBlIjoiUHJvcGVydHk9o2JpZCI6NzI1fQ==",
+		"name": "Empire Hotel",
+		"currency": "AUD"
+	}
+]
