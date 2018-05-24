@@ -36,7 +36,6 @@ Build a single React page that will provide information and prices of the differ
 - all available properties are configed on [properties.json](https://github.com/Overseas-Student-Living/Frontend-Task/blob/master/properties/properties.json)
 - Room name and price are all required fields, you'll need to validate them when click add/save button
 - When clicking on the question mark on the right of the price, a tooltip will displayed with text `Price are based with currency { currenty }`
-
 - Click on any other places will close the tooltip 
 
 
