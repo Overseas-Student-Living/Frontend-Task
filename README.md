@@ -17,10 +17,10 @@ Build a single React page that will provide information and prices of the differ
 
 ## Acceptance Criteria
 
-- The test contain two pages, property Listing page and Property Edit page
-- You can switch page by Click on the navigation on the left
+- The test contain two pages, Property Listing page and Property Edit page
+- You can switch page by click on the navigation on the left
 - The current page will highlight on navigation
-- Navigation bar canbe collpase and expaned by click arrow on the bottom of navigation
+- Navigation bar can be collpase and expaned by click arrow on the bottom of navigation
 
 #### Property Listing Page
 
@@ -29,11 +29,11 @@ Build a single React page that will provide information and prices of the differ
 #### Propety Edit page
 
 - All setted up properties will shown on the left panel
-- Click on one of the properties,price info will shown on right side
-- You could add a new property by clicking on Add new property button
+- Click on one of the properties, price info will shown on right side
+- You could add a new property by clicking on `Add new property button`
 - You could add price to a property or edit/delete a price from a property
 - When setting up a new property, you'll see a list of properties which haven't setted up before, and you'll need to select one of the the properties to config
-- all available properties are configed on [properties.json](#file-properties-json)
+- all available properties are configed on [properties.json](https://github.com/Overseas-Student-Living/Frontend-Task/blob/master/properties/properties.json)
 - Room name and price are all required fields, you'll need to validate them when click add/save button
 - When clicking on the question mark on the right of the price, a tooltip will displayed with text `Price are based with currency { currenty }`
 
@@ -42,8 +42,8 @@ Build a single React page that will provide information and prices of the differ
 
 ## Bonus points
 - Responsive with tablet and mobile
-- Unit/Functional Test included
-- Supporting multiply languages 
+- Unit/Functional Tests included
+- Supporting multiple languages 
 
 ## Design
 
