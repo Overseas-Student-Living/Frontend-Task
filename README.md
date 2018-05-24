@@ -39,20 +39,18 @@ Build a single React page that will provide information and prices of the differ
 - Click on any other places will close the tooltip 
 
 
-## Bonus points
+### Bonus points
 - Responsive with tablet and mobile
 - Unit/Functional Tests included
 - Supporting multiple languages 
 
-## Design
+### Design
 
-Refer to: https://zpl.io/2Gm56yj
+- Refer to: https://zpl.io/2Gm56yj
+- Username: student_test
+- password: studentTest
 
-Username: student_test
-
-password: studentTest
-
-#### Screenshots
+### Screenshots
 
 **List Page**
 ![List page](https://github.com/Overseas-Student-Living/Frontend-Task/raw/master/screenshots/list.png)
