@@ -49,6 +49,7 @@ Build a single React page that will provide information and prices of the differ
 - Refer to: https://zpl.io/2Gm56yj
 - Username: student_test
 - password: studentTest
+- Assets: [https://github.com/Overseas-Student-Living/Frontend-Task/tree/master/images](https://github.com/Overseas-Student-Living/Frontend-Task/tree/master/images)
 
 ### Screenshots
 
